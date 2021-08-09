@@ -1,0 +1,10 @@
+P:\Dev\Tic-Tac-Toe\Tic-Tac-Toe\bin\Release\Tic-Tac-Toe.exe.config
+P:\Dev\Tic-Tac-Toe\Tic-Tac-Toe\bin\Release\Tic-Tac-Toe.exe
+P:\Dev\Tic-Tac-Toe\Tic-Tac-Toe\bin\Release\Tic-Tac-Toe.pdb
+P:\Dev\Tic-Tac-Toe\Tic-Tac-Toe\obj\Release\Tic-Tac-Toe.csproj.AssemblyReference.cache
+P:\Dev\Tic-Tac-Toe\Tic-Tac-Toe\obj\Release\Tic_Tac_Toe.Form1.resources
+P:\Dev\Tic-Tac-Toe\Tic-Tac-Toe\obj\Release\Tic_Tac_Toe.Properties.Resources.resources
+P:\Dev\Tic-Tac-Toe\Tic-Tac-Toe\obj\Release\Tic-Tac-Toe.csproj.GenerateResource.cache
+P:\Dev\Tic-Tac-Toe\Tic-Tac-Toe\obj\Release\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+P:\Dev\Tic-Tac-Toe\Tic-Tac-Toe\obj\Release\Tic-Tac-Toe.exe
+P:\Dev\Tic-Tac-Toe\Tic-Tac-Toe\obj\Release\Tic-Tac-Toe.pdb
